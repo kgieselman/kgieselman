@@ -1,13 +1,13 @@
 # Kyle Gieselman
 
-Electrical / Embedded Engineer
+Electrical / Embedded Engineer  
 
-I'm Currently working on creating my own custom mechanical keyboard. 
-    -KiCAD for PCB
-    -TBD for case files
-    -QMK for Firmware
+I'm Currently working on creating my own custom mechanical keyboard.   
+    -KiCAD for PCB  
+    -TBD for case files  
+    -QMK for Firmware  
 
-I'm currently learning more about RTOS
+I'm currently learning more about RTOS  
 
 <!--
 **kgieselman/kgieselman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
