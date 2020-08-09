@@ -7,7 +7,7 @@ I'm Currently working on creating my own custom mechanical keyboard.
     -TBD for case files  
     -QMK for Firmware  
 
-I'm currently learning more about RTOS  
+I'm currently researching RTOS and Bluetooth for IOT applications.
 
 <!--
 **kgieselman/kgieselman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
